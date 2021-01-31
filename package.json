@@ -1,0 +1,27 @@
+{
+  "name": "usewindowsize",
+  "version": "1.0.0",
+  "description": "Get the height and width of the window for each window event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shotaCoffee/useWindowSize.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "event"
+  ],
+  "author": "shotaCoffee <dripcoffee1018@gmail.com> (https://shota.coffee/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shotaCoffee/useWindowSize/issues"
+  },
+  "homepage": "https://github.com/shotaCoffee/useWindowSize#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
